@@ -5,7 +5,8 @@
 - Daniel
 - Ramil
 ## Descripcion:
-Saber previsión tiempo de un día 
-concreto y sus dos días anteriores
-para saber si hay condiciones óptimas para 
-escalar el día concreto.
+El cliente es un escalador apasionado
+que desafortunadamente a veces debe cancelar sus sesiones 
+de escalada por mal tiempo.
+Por tanto necesita una solución que aporte seguridad para planificar un viaje sabiendo que tendrá condiciones óptimas para
+la práctica de la escalada.
