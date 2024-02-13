@@ -1,4 +1,4 @@
-### Usuarios
+### Personas
 
 - Eugenio Trujillo, cacereño, 35 años, programador y escalador aficionado con más de 15 años de
   experiencia.
