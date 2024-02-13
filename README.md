@@ -7,5 +7,5 @@
 ## Descripcion:
 Saber previsión tiempo de un día 
 concreto y sus dos días anteriores
-para saber si hay condiciones óptimas para 
-escalar el día concreto.
+para saber si se dan condiciones óptimas para 
+escalar.
