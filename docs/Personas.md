@@ -1,7 +1,5 @@
 ### Personas
 
-- Eugenio Trujillo, cacereño, 35 años, programador y escalador aficionado con más de 15 años de
-  experiencia.
 - África Canto, madrileña, 28 años, bombera y escaladora poco experimentada.
 - Chloe le Nevé, normanda afincada en España, 42 años, fisioterapeuta, adicta a la montaña.
 - Jon Herraiz, guipuzcoano, 24 años, estudiante de ingeniería mecánica, fanático del boulder.
