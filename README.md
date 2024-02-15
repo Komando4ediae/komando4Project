@@ -30,3 +30,12 @@ Humedad no elevada.
 Adicionalmente, se requiere disponer de la información de dos días previos al día concreto de escalada.
 
 La aplicación, basada en estos datos y utilizando un sistema de codificación por colores inspirado en el semáforo, determinará la viabilidad de la sesión de escalada.
+
+## Enlace a documentación:
+- [Historias usuarios](https://github.com/Komando4ediae/komando4Project/tree/Feature-readme.md/docs/HistoriasUsuario.md)
+- [Milestones](https://github.com/Komando4ediae/komando4Project/tree/Feature-readme.md/docs/Milestones.md)
+- [Personas](https://github.com/Komando4ediae/komando4Project/tree/Feature-readme.md/docs/Personas.md)
+
+
+
+
