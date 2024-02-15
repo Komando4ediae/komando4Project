@@ -3,9 +3,10 @@
 ### Milestone 0 Modelado del problema.
 Con el objetivo de resolver el problema presentado en la HU1, necesitamos trabajar con los siguientes datos:
 - Temperatura
-- Precicpitaciones
+- Precipitaciones
 - Humedad
 - Viento
+  
 Todos estos datos para un día y lugar especificado por cliente
 
 ### Milestone 1 Algoritmo verificación condiciones meteorológicas.
