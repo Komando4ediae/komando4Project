@@ -12,5 +12,5 @@ const condicionesOptimas = {
         max: 25
     },
     precipitaсion: 0
-  };
+  };gitg
   
