@@ -12,9 +12,5 @@ class ClimbingCragForecast {
   /**
    * Calculates the climbing conditions based on the forecast.
    */
-  calculateConditions() {
-    console.log(
-      `With this ${this.forecast} forecast it is not possible to climb at ${this.location.name}`
-    );
-  }
+  calculateConditions() {}
 }
