@@ -4,6 +4,8 @@
 - Vicky
 - Daniel
 - Ramil
+- Sergio
+  
 ## Descripcion:
 El cliente, un entusiasta de la escalada, lamentablemente se ve obligado a cancelar ocasionalmente sus sesiones debido a condiciones climáticas desfavorables. Por lo tanto, busca una solución que garantice la seguridad al planificar sus salidas. Se requiere recibir con al menos dos días de antelación una serie de indicadores ambientales y otros factores que determinen la posibilidad de escalar en el día y lugar elegidos.
 
